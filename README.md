@@ -4,21 +4,16 @@
 
 Опыт работы:
 
-
 AGAVA/ЯЮниор - 08/2023-04/2025
 Проекты:
 1. “Битва на выживание” - рогалик с элементами прокачки навыков и возможножностью выбора сложности.
-<img width="1907" height="1067" alt="orig (2)" src="https://github.com/user-attachments/assets/eaef87d3-2a11-4f73-af9e-868887db82b9" />
-<img width="1923" height="1079" alt="orig (1)" src="https://github.com/user-attachments/assets/fb02d652-669c-47f2-b917-b319ff190a0e" />
 Игра - https://vovo4ka322.github.io/Survival/
 Код - https://github.com/Vovo4ka322/SurvivalGame
 
 2. “Стрельба по препятствиям” - аркадная игра, в которой главное - скорость!
-
 игра -  https://vovo4ka322.github.io/Shooter/
 Код - https://github.com/Vovo4ka322/DOS.V0.1
-<img width="789" height="1403" alt="orig (4)" src="https://github.com/user-attachments/assets/44930239-9d6b-49d1-9041-539f5cd77f7d" />
-<img width="787" height="1405" alt="orig (5)" src="https://github.com/user-attachments/assets/8b4da76b-a79c-4189-b7d1-359020496282" />
+
 Обязанности:
 Разработка архитектуры 
 Разработка игровых механик
@@ -46,6 +41,5 @@ https://store.steampowered.com/app/1948090/Chernobyl_Origins/
 Добавление и настройка SDK
 Уменьшение веса билда
 
-
 Текущий стек технологий:
-SOLID, GRASP, ООП, R3, UNITASK, ZENJECT(DI), ENTRY POINT, NEW INPUT SYSTEM, MVx паттерны
+SOLID, GRASP, ООП, R3, ZENJECT(DI), ENTRY POINT, NEW INPUT SYSTEM, MVx паттерны и т.д.
